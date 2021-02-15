@@ -1,15 +1,29 @@
-import { StyleSheet } from 'react-native'
+import { StyleSheet, StatusBar } from 'react-native'
 
 const styles = StyleSheet.create({
   container: {
-    ...StyleSheet.absoluteFillObject,
-    height: 400,
-    width: 400,
-    justifyContent: 'flex-end',
-    alignItems: 'center',
+    flex: 1,
+    justifyContent: 'center',
+    flexDirection: 'column',
+    top: StatusBar.currentHeight,
   },
   map: {
     ...StyleSheet.absoluteFillObject,
+  },
+  overlay: {
+    position: 'absolute',
+    flex: 1,
+    flexDirection: 'row',
+    top: 0,
+  },
+  overlayContainer: {
+    flex: 1,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  overlayItems: {
+    height: 50,
+    width: '100%',
   },
 })
 

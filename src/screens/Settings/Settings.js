@@ -1,7 +1,7 @@
 import React from 'react'
 import { SafeAreaView, Text } from 'react-native'
 
-const Settings = (props) => {
+const Settings = () => {
   return (
     <SafeAreaView>
       <Text>Settings Screen</Text>

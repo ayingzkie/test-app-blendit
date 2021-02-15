@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* TestAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* TestAppTests.m */; };
-		0D7086F681D34DF2849B15E8 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6AE25A1DAE5C4E2D992B27FD /* Feather.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -16,26 +15,11 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* TestAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* TestAppTests.m */; };
-		36688A7D9CC8429891AB9D8A /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 23912B7CBA3242B7B80463A1 /* Octicons.ttf */; };
 		3E37083B0F17EA5DE32E99D8 /* libPods-TestApp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CFFDAFDDB4E8369C2C788A92 /* libPods-TestApp-tvOSTests.a */; };
-		423A6169185C4288ACECCFE3 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3B155413F8D4940978C0656 /* FontAwesome5_Solid.ttf */; };
-		443BCAA01C0148C8B609F943 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C0204C510FE145B2B0021458 /* SimpleLineIcons.ttf */; };
 		493728CDB873DD31163889EC /* libPods-TestApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D19033B50F052E88FEC1DB6D /* libPods-TestApp.a */; };
-		4AFD221185A04AD6BF00BD1D /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 422AD9CAD5594052B20F6D21 /* Entypo.ttf */; };
-		4EDABC4EED7148C680755EEA /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C4F6EDF4A7CD4473904C5F40 /* MaterialCommunityIcons.ttf */; };
-		649BA51021C74D55AE53FB7A /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0369AA898795403DA60FDB77 /* FontAwesome5_Regular.ttf */; };
-		77D0B9555DED4B31AB93C6E1 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E93A17A2B3047A880E2E5DB /* Ionicons.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		8F26B948D9864F9BAC25B3CA /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BB8EE3145F924FCDBA840054 /* FontAwesome5_Brands.ttf */; };
-		A210F9BA8DAE43C8BF4B5392 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA79DF917CAF45258CFB6C71 /* AntDesign.ttf */; };
-		ADB49DDDB096446C8A16C59A /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7A657A195B904EAE9517AD38 /* MaterialIcons.ttf */; };
-		B5534E77D23D41D79D395C5F /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C620AEFC89B1477B9212CA3E /* FontAwesome.ttf */; };
-		CF353B5AFCDF4680B281C90D /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8943AD007FE443819C670501 /* Fontisto.ttf */; };
 		DF02113843FAFCDBF2BA503E /* libPods-TestApp-TestAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 33EF0E4E2D800ACFF8872FB0 /* libPods-TestApp-TestAppTests.a */; };
-		E45CE3A28CEF4638BFDFDFF3 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4CC2039F56D74696B12AD308 /* Foundation.ttf */; };
-		F934AC13D4E14832AA163183 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2CA99FD3F6E845C1AD329221 /* EvilIcons.ttf */; };
 		FC9F2FA6A56CF071E774A955 /* libPods-TestApp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B5820792343EC6DBE8942981 /* libPods-TestApp-tvOS.a */; };
-		FEA7BE1B9E884D898FB7F46A /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B99521EBCBAA46618ABF06A6 /* Zocial.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -166,7 +150,6 @@
 				A8033B49FC56BB62DDCF975A /* Pods-TestApp-tvOSTests.debug.xcconfig */,
 				2103F42D98E718E46762F881 /* Pods-TestApp-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -265,7 +248,6 @@
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				706618FED32BFDB6AB31EBE2 /* [CP] Embed Pods Frameworks */,
 				6F8E88DD825457D59B9B7C9F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
@@ -288,7 +270,6 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				C083F97EF2B8CBB972521E78 /* [CP] Embed Pods Frameworks */,
 				09960670696D10527B5AD1DD /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
@@ -401,22 +382,6 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				A210F9BA8DAE43C8BF4B5392 /* AntDesign.ttf in Resources */,
-				4AFD221185A04AD6BF00BD1D /* Entypo.ttf in Resources */,
-				F934AC13D4E14832AA163183 /* EvilIcons.ttf in Resources */,
-				0D7086F681D34DF2849B15E8 /* Feather.ttf in Resources */,
-				B5534E77D23D41D79D395C5F /* FontAwesome.ttf in Resources */,
-				8F26B948D9864F9BAC25B3CA /* FontAwesome5_Brands.ttf in Resources */,
-				649BA51021C74D55AE53FB7A /* FontAwesome5_Regular.ttf in Resources */,
-				423A6169185C4288ACECCFE3 /* FontAwesome5_Solid.ttf in Resources */,
-				CF353B5AFCDF4680B281C90D /* Fontisto.ttf in Resources */,
-				E45CE3A28CEF4638BFDFDFF3 /* Foundation.ttf in Resources */,
-				77D0B9555DED4B31AB93C6E1 /* Ionicons.ttf in Resources */,
-				4EDABC4EED7148C680755EEA /* MaterialCommunityIcons.ttf in Resources */,
-				ADB49DDDB096446C8A16C59A /* MaterialIcons.ttf in Resources */,
-				36688A7D9CC8429891AB9D8A /* Octicons.ttf in Resources */,
-				443BCAA01C0148C8B609F943 /* SimpleLineIcons.ttf in Resources */,
-				FEA7BE1B9E884D898FB7F46A /* Zocial.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -450,7 +415,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
 		};
 		09960670696D10527B5AD1DD /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -459,6 +424,7 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-TestApp/Pods-TestApp-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -479,6 +445,7 @@
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleMaps.bundle",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
@@ -589,6 +556,7 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-TestApp-TestAppTests/Pods-TestApp-TestAppTests-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -609,6 +577,7 @@
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleMaps.bundle",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
@@ -630,42 +599,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TestApp-TestAppTests/Pods-TestApp-TestAppTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		706618FED32BFDB6AB31EBE2 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-TestApp-TestAppTests/Pods-TestApp-TestAppTests-frameworks.sh",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL/OpenSSL.framework/OpenSSL",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OpenSSL.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TestApp-TestAppTests/Pods-TestApp-TestAppTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		C083F97EF2B8CBB972521E78 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-TestApp/Pods-TestApp-frameworks.sh",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL/OpenSSL.framework/OpenSSL",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OpenSSL.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TestApp/Pods-TestApp-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		C9724755F361EDF96B0CB757 /* [CP] Check Pods Manifest.lock */ = {

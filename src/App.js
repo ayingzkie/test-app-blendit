@@ -7,22 +7,17 @@
  */
 
 import React from 'react'
-import { SafeAreaView, ScrollView, View, Text, StatusBar } from 'react-native'
-import {
-  Header,
-  LearnMoreLinks,
-  DebugInstructions,
-  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen'
-import styles from './App.styles'
+import { StatusBar } from 'react-native'
+import * as eva from '@eva-design/eva'
+import { ApplicationProvider } from '@ui-kitten/components'
 import RootNavigator from './navigation/RootNavigator'
 
 const App = () => {
   return (
-    <>
+    <ApplicationProvider {...eva} theme={eva.dark}>
       <StatusBar barStyle="dark-content" />
       <RootNavigator />
-    </>
+    </ApplicationProvider>
   )
 }
 
